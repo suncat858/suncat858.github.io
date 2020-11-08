@@ -1,17 +1,15 @@
 ---
-title: 환영합니다
+title: 힛
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+여러가지 기술을 가르쳐 드립니다
 
 ChatApp is a fictional chat application for sending messages and media to others.
 Teams and friend groups would use ChatApp to stay up to date if it existed.
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
-### 시작합니다
+### 기초 명령어
 
 Getting a message sent is quick and easy with ChatApp:
 

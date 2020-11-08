@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: 안녕하세요
+title: 박건영의 기술 블로그
 url: "https://suncat858.github.io/"
 baseurl:
 google_analytics_key:
@@ -15,7 +15,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: 안녕하세요
+  name: 히힛
   links:
     - https://github.com/CloudCannon/edition-jekyll-template
 
