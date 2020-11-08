@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: 환영합니다
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
@@ -11,7 +11,7 @@ Teams and friend groups would use ChatApp to stay up to date if it existed.
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
-### Getting Started
+### 시작합니다
 
 Getting a message sent is quick and easy with ChatApp:
 
