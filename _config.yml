@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Edition Template
+title: 안녕하세요
 url: "https://suncat858.github.io/"
 baseurl:
 google_analytics_key:
@@ -15,7 +15,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: 안녕하세요
   links:
     - https://github.com/CloudCannon/edition-jekyll-template
 
