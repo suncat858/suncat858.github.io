@@ -1,5 +1,5 @@
 ---
-title: Java
+title: Home
 ---
 
 
@@ -9,11 +9,11 @@ title: Java
 ### Features
 
 
-#### Media
+### Media
 
 
-#### Contact Syncing
+### Contact Syncing
 
 
-#### Devices
+### Devices
 
