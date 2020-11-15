@@ -20,7 +20,7 @@ git push origin master
 git remote add origin <원격 서버 주소>
 ```
 ### 다른 명령어
-
+```java
 git init : git 생성하기
 git clone git_path : 코드가져오기
 git checkout branch_name : 브랜치 선택하기
@@ -45,3 +45,4 @@ git config — global user.email “user_email” : git 계정Mail변경하기
 git stash / git stash save “description” : 작업코드 임시저장하고 브랜치 바꾸기
 git stash pop : 마지막으로 임시저장한 작업코드 가져오기
 git branch — set-upstream-to=remote_path/branch_name : git pull no tracking info 에러해결
+```
