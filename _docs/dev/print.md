@@ -19,6 +19,25 @@ System.out.println("문자열"+변수명);
 변수명이 없을 경우 에러발생)
 *  문자열과 변수명을 함께 사용할 수 있으나 반드시 '+'로 연결시켜줘야 한다.
 * 가로안의 내용을 출력한 후 자동으로 줄바꾸는 기능이 있다.
+```java
+public class Println {
+ 
+    public static void main(String[] args) {
+        //기본 출력문 println()        
+        //sysout + 자동완성(ctrl + space)
+        
+        int number = 10;
+        String str = " hello";
+        
+        System.out.println("hello"); //문자열 출력
+        System.out.println(number); //int형 변수 출력
+        System.out.println(str); // String형 변수 출력
+        System.out.println("내 나이는"+number+"살이야 "); // 문자열 + 변수 출력        
+        
+    }//main
+ 
+}//class
+```
 ### 형식화된 출력 - printf()
 
 printf()
